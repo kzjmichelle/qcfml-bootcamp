@@ -1,2 +1,2 @@
-# qcfml-bootcamp
-QCF ML Programming Workshop
+# QCF Machine Learning Programming Workshop
+### Revamped workshop of Nuyun Zhang (nuyun@gatech.edu). 
